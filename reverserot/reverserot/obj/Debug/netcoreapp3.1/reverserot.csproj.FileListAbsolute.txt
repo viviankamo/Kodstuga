@@ -1,0 +1,13 @@
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.exe
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.deps.json
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.runtimeconfig.json
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.runtimeconfig.dev.json
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.dll
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\bin\Debug\netcoreapp3.1\reverserot.pdb
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.csprojAssemblyReference.cache
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.AssemblyInfoInputs.cache
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.AssemblyInfo.cs
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.csproj.CoreCompileInputs.cache
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.dll
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.pdb
+C:\Users\vivian.kamo\Documents\GitHub\Kodstuga\reverserot\reverserot\obj\Debug\netcoreapp3.1\reverserot.genruntimeconfig.cache

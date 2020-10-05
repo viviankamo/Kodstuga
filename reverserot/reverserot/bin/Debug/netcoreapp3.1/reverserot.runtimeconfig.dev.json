@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vivian.kamo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vivian.kamo\\.nuget\\packages"
+    ]
+  }
+}
