@@ -14,20 +14,20 @@ namespace reverserot
 
             while (true)
             {
-                string line = Console.ReadLine();
-                if (line.Equals("0") || line.Equals("")) break;
+                string word = Console.ReadLine();
+                if (word.Equals("0") || word.Equals("")) break;
                 try
                 {
-                    var rotation = Convert.ToInt32(line.Split(" ")[0].Trim());
+                    var rotation = Convert.ToInt32(word.Split(" ")[0].Trim());
                 }
                 catch
                 {
                     break;
                 }
-                var message = line.Split(" ")[1].Trim();
+                var message = word.Split(" ")[1].Trim();
                 if (message.ToCharArray().Count() > 40) break;
 
-                input.Add(line);
+                input.Add(word);
                 if (input.Count() == 30) break;
             }
 
